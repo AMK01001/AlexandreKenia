@@ -26,4 +26,4 @@
 
 ##
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMK01001&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMK01001&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMK01001&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=false&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMK01001&show_icons=false)
